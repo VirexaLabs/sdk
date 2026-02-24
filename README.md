@@ -4,6 +4,8 @@
 
 Virexa develops advanced technologies that facilitate hybrid financial markets—seamlessly connecting traditional financial infrastructure with decentralized blockchain ecosystems.
 
+Pump.fun CA : 23t1gibecCr4wVpCBsLXGhQbk8qbEXATWvVpVsEdpump
+
 ---
 
 ## 🌐 Vision
